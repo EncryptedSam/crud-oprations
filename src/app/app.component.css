@@ -1,0 +1,7 @@
+.user-data{
+    border-collapse: collapse;
+}
+
+.user-data th, .user-data td{
+    border: 1px solid black !important;
+}
